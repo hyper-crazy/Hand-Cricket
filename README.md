@@ -6,7 +6,6 @@
 ## 🚀 Play Now
 
 ### 🌐 [Click Here to Play in Browser] (https://hyper-crazy.github.io/Hand-Cricket/)
-*(Link will be active after your first GitHub Action build completes)*
 
 ### 💻 [Download for Windows]
 *(Go to the "Releases" section on the right to download `HandCricket.exe`)*
